@@ -1,4 +1,7 @@
 # 🚀 Prenma
+
+![prenma](http://www.image-heberg.fr/files/17559763872219605815.jpg)
+
 Un générateur de prénoms et de pseudos uniques, simple et intelligent !
 
 ## ✨ Qu'est-ce que c'est ?
