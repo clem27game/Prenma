@@ -1,6 +1,6 @@
 # 🚀 Prenma
 
-![prenma](http://www.image-heberg.fr/files/17559763872219605815.jpg)
+![prenma](http://www.image-heberg.fr/files/1756020836590344730.jpg)
 
 Un générateur de prénoms et de pseudos uniques, simple et intelligent !
 
